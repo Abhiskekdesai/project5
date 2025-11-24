@@ -1,5 +1,5 @@
-num = 7
+num = input("Enter a number")c
 if num % 2 == 0:
     print("even number")
 else:
-    print("odd number")x
+    print("odd number")
